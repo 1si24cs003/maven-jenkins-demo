@@ -36,3 +36,10 @@ public class AppTest
         assertTrue( true );
     }
 }
+
+// src/main/java/com/example/App.java
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Hello from Jenkins + Maven!");
+    }
+}
